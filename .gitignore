@@ -1,0 +1,6 @@
+test*
+*copy*
+*.so
+*.txt
+*.out
+*.diff
